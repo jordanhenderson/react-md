@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+import CSSTransitionGroup from 'react-transition-group-legacy/CSSTransitionGroup';
 import { Autocomplete } from 'react-md';
 import { uniqBy } from 'lodash/array';
 

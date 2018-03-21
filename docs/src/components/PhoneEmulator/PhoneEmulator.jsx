@@ -1,5 +1,5 @@
 import React, { Children } from 'react';
-import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+import CSSTransitionGroup from 'react-transition-group-legacy/CSSTransitionGroup';
 import PropTypes from 'prop-types';
 import cn from 'classnames';
 import { Paper, Toolbar, bem } from 'react-md';

@@ -1,7 +1,7 @@
 /* eslint-env jest */
 import React from 'react';
 import { shallow, mount } from 'enzyme';
-import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+import CSSTransitionGroup from 'react-transition-group-legacy/CSSTransitionGroup';
 
 import DialogContainer from '../DialogContainer';
 import Dialog from '../Dialog';

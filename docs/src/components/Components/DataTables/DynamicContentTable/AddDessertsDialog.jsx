@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+import CSSTransitionGroup from 'react-transition-group-legacy/CSSTransitionGroup';
 import { Button, DialogContainer, Toolbar } from 'react-md';
 
 import FormGroup from './FormGroup';

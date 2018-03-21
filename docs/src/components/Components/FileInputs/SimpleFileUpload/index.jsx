@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+import CSSTransitionGroup from 'react-transition-group-legacy/CSSTransitionGroup';
 import { Button, FileUpload } from 'react-md';
 import guid from 'uuid/v1';
 import { without } from 'lodash/array';

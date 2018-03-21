@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import { findDOMNode } from 'react-dom';
 import PropTypes from 'prop-types';
-import TransitionGroup from 'react-transition-group/TransitionGroup';
+import TransitionGroup from 'react-transition-group-legacy/TransitionGroup';
 import cn from 'classnames';
 
 import { TAB } from '../constants/keyCodes';
